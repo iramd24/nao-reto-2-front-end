@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/nao-reto-2-front-end/static/css/main.674d46e6.css",
-    "main.js": "/nao-reto-2-front-end/static/js/main.f11c1cf3.js",
+    "main.js": "/nao-reto-2-front-end/static/js/main.4fbec238.js",
     "static/js/787.c4e7f8f9.chunk.js": "/nao-reto-2-front-end/static/js/787.c4e7f8f9.chunk.js",
     "static/media/sheet2.svg": "/nao-reto-2-front-end/static/media/sheet2.9540a99c48af40d751fcb48a83f15621.svg",
     "static/media/sheet1.svg": "/nao-reto-2-front-end/static/media/sheet1.b53f9f2eee95198a16b6bb8f70012b60.svg",
     "index.html": "/nao-reto-2-front-end/index.html",
     "main.674d46e6.css.map": "/nao-reto-2-front-end/static/css/main.674d46e6.css.map",
-    "main.f11c1cf3.js.map": "/nao-reto-2-front-end/static/js/main.f11c1cf3.js.map",
+    "main.4fbec238.js.map": "/nao-reto-2-front-end/static/js/main.4fbec238.js.map",
     "787.c4e7f8f9.chunk.js.map": "/nao-reto-2-front-end/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.674d46e6.css",
-    "static/js/main.f11c1cf3.js"
+    "static/js/main.4fbec238.js"
   ]
 }
